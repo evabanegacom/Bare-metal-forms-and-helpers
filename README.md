@@ -28,21 +28,23 @@ This project is part of the Microverse curriculum in Ruby on Rails module!
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is about building an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it. It is based mainly on the active record, models, and associations to the tests, meaning no user interface has been added.
+This project is a project on creating and filling forms using rails. in this instance, a person creates a
+user profile by filling the forms with set of valid requirements like password length, also these profiles
+can be edited if necessary.
 
 <!-- INSTALLATION -->
 ## Installation
 
 To have this app on your pc, you need to:
 * have Ruby & Ruby on Rails installed in your computer
-* [download](git@github.com:karthi07/micro-reddit.git) or clone this repo:
+* [download](git@github.com:evabanegacom/Bare-metal-forms-and-helpers.git) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:evabanegacom/micro-reddit.git
+    git@github.com:evabanegacom/Bare-metal-forms-and-helpers.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/evabanegacom/micro-reddit.git
+    https://github.com/evabanegacom/Bare-metal-forms-and-helpers.git
   ```
 * Open the terminal inside the clone directory and run the bundler:-
   - ```$ bundler install```
@@ -68,8 +70,6 @@ This project was built using these technologies.
 👤 **Precious**
 
 - GitHub: [@Precious](https://github.com/evabanegacom)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
