@@ -5,5 +5,7 @@
   <%= f.text_field :email, value: @user.email %><br><br>
   <%= f.label :password%><br><br>
   <%= f.text_field :password, value: @user.password %><br><br>
-  <%= f.submit 'submit'%>
+  <%= f.submit 'submit'%><br><br>
 <% end %>
+
+<%= render 'errors' %>
